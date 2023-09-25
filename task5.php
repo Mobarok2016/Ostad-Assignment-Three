@@ -13,4 +13,3 @@ function generatePassword($length){
 }
 
 echo generatePassword(12);
-

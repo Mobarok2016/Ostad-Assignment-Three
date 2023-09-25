@@ -18,5 +18,3 @@ function avgGrade($studentGrades)
 }
 
 avgGrade($studentGrades);
-
-
